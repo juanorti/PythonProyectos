@@ -249,4 +249,6 @@ def menu_principal():
             actualizar_datos()
         continuar=input("si/no  mostrar menu").lower()
 
+print("Menu Principal")
 menu_principal()
+print("Ha terminado de ejecutar el programa")
